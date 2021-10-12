@@ -1,0 +1,42 @@
+Mini cosmos R :  suuluuRlddrrruruullDDullddrRlddrruUluR
+Time taken: 0.02791738510131836 s
+Peak memory usage: 48030
+
+Mini cosmos D :  srruullluuRlddrrruruullDDullddrRurrrddlldllUdrruUluRlullddRRurD
+Time taken: 0.09377193450927734 s
+Peak memory usage: 182110
+
+Mini cosmos R :  srruullluuRlddrrrddllUdrruuuruullDllddRRUrDuruullDDullddrddrrUULuuurrddrddLruuluullddR
+Time taken: 0.15558457374572754 s
+Peak memory usage: 302455
+
+Mini cosmos R :  suuuruRlldddrrruuruulDDDuullldddrrdrruLLLrruuulllddDlddrUUUdrrruuulllldR
+Time taken: 0.05884122848510742 s
+Peak memory usage: 94208
+
+Mini cosmos U :  suuUruRldlddrrruuruulDDDuulldlluRRRlldddrrdrruLLLrruuruulDDDuulllddDlddrUUUdrrdrruLLLrruuulllldRdDlddrUUU
+Time taken: 0.680211067199707 s
+Peak memory usage: 1089160
+
+Mini cosmos L :  sluRuUruRldlddRRdrruLLLrruuruulDDDuulldlluRRRllddDlddrUUUdrrdrruLLLrruuruulDlllldRdDlddrUUUdrrruUruL
+Time taken: 2.6070504188537598 s
+Peak memory usage: 4984995
+
+Mini cosmos 7 :  No result found
+
+Mini cosmos 8 :  No result found
+
+Mini cosmos D :  srddllluuRuullDurrddldddlluuuRRluurrdDlddrrruuLLDurrddlLuuuullddRlldddrrUruUlluurrDDDullldddrruRuulD
+Time taken: 0.3121964931488037 s
+Peak memory usage: 392736
+
+Mini cosmos D :  srddLLuluRllldddrrUruuuullDurrddddrruuLrddllldlluuuRuurrdDDuuullddRlldddrruRlUddlluuuruurrdDrrddLLrruullD
+Time taken: 0.8776838779449463 s
+Peak memory usage: 1292960
+
+Mini cosmos L :  sdlULLrddlluUUdlluururrdrrDullulldRRlddrrdrruLLLrddlluUUdlluururrdLddrrruuL
+Time taken: 0.7849278450012207 s
+Peak memory usage: 1005763
+
+Mini cosmos 12 :  No result found
+

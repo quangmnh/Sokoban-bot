@@ -1,0 +1,200 @@
+Mini Cosmos 1 :  uuluuRlddrrurruullDDullddrRlddrruUluR
+Time taken: 0.03806304931640625 s
+Peak memory usage: 50422
+Number of state visited: 124
+
+Mini Cosmos 2 :  rruullluuRlddrrurruullDDullddrRurrrddlldllUdrruUluullddRRuRD
+Time taken: 0.15858197212219238 s
+Peak memory usage: 168401
+Number of state visited: 502
+
+Mini Cosmos 3 :  rruullluuRlddrrrddllUdrruuuruullDllddRRlddrruUllluurrurrddrddLruuluulldDRdL
+Time taken: 0.7336077690124512 s
+Peak memory usage: 575682
+Number of state visited: 1362
+
+Mini Cosmos 4 :  uuuurRlldddrrruuruulDDDuullldddrrdrruLLLrruuulllddDlddrUUUdrrruuulllldR
+Time taken: 0.16201567649841309 s
+Peak memory usage: 101452
+Number of state visited: 405
+
+Mini Cosmos 5 :  uuUruRldlddrrruuruulDDDuulldlluRRRlldddrrdrruLLLrruuruulDDDuulllddDlddrUUUdrrdrruLLLrruuulllldRdDlddrUUU
+Time taken: 1.9009864330291748 s
+Peak memory usage: 983324
+Number of state visited: 3703
+
+Mini Cosmos 6 :  luRuUruRldlddRRdrruLLLrruuruulDDDuulldlluRRRllddDlddrUUUdrrdrruLLLrruuruulDlllldRdDlddrUUUdrrruUruL
+Time taken: 4.926552057266235 s
+Peak memory usage: 4283903
+Number of state visited: 12646
+
+Mini Cosmos 7 :  lulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrDLurrrddddlluU
+Time taken: 0.6227140426635742 s
+Peak memory usage: 433852
+Number of state visited: 1903
+
+Mini Cosmos 8 :  luurrDDllulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrrrddllddrrUUUruLLLDLUrrrddddlluU
+Time taken: 2.345137596130371 s
+Peak memory usage: 2443260
+Number of state visited: 6854
+
+Mini Cosmos 9 :  rddlluluRuullDurrddldddlluuuRRluurrdDlddrrruuLLDurrddlLuuuullddRluurrdDDullldddrrURuulD
+Time taken: 0.4833643436431885 s
+Peak memory usage: 379548
+Number of state visited: 1532
+
+Mini Cosmos 10 :  rddLLululldddrrUdlluuurrRuullDurrddddrruuLrddllldlluuuRuurrdDDuuullddRlldddrruUddlluuuruurrdDrrddlLrruullD
+Time taken: 1.0130901336669922 s
+Peak memory usage: 884628
+Number of state visited: 3048
+
+Mini Cosmos 11 :  dlULLrddlluUUdlluururrdrrDullulldRRlddrrdrruLLLrddlluUUdlluururrdLddrrruuL
+Time taken: 1.4685077667236328 s
+Peak memory usage: 1038540
+Number of state visited: 4487
+
+Mini Cosmos 12 :  dLULLLddrrUruLddlluuuurrrDulllddddrruuLrddlluUUdrrdrruLuullulldlddRluururrdrrddLddlluUlluurRRlllddrrUdlluururrdLddddrruuruuLrddlddlluuRRdrUU
+Time taken: 15.178008794784546 s
+Peak memory usage: 14966572
+Number of state visited: 41548
+
+Mini Cosmos 13 :  rruurrDDDrdLLLuulluuRRddddLdlUUdrruuuulldldRRRuuRurDDDDrdLLLLdlUUdrruulLuurrrrddLL
+Time taken: 1.5932974815368652 s
+Peak memory usage: 1875652
+Number of state visited: 5192
+
+Mini Cosmos 14 :  rrrrddLLuuuurrDDlllluuRRddddLdlUUdrruuuulldldRRluurrdDrrDrdLLLLdlUUdrrrruulluulldldRRRuuRurDDDDrdLLLLdlUUdrrrruuuullddlLuurrrrddLLrrddllU
+Time taken: 22.465092182159424 s
+Peak memory usage: 20290020
+Number of state visited: 58078
+
+Mini Cosmos 15 :  uuluRRldddrrurrdLLLdlUUUruRurDDulldlddrrrruLuulldlluRRRurDDDrdLLLdlUUdrrruuulllldR
+Time taken: 1.87093186378479 s
+Peak memory usage: 763516
+Number of state visited: 3413
+
+Mini Cosmos 16 :  rrurrdLLLdlluRuuruRurDDDldLrurrdLLuruulldldDuuluRRRurDDDldLdLUUdrruruulllldRurrrddrdLLLdlUUUluRRRurDDullldddrrrruL
+Time taken: 2.6878817081451416 s
+Peak memory usage: 2030660
+Number of state visited: 5629
+
+Mini Cosmos 17 :  llldldlddrUrUdlluRuRlddrUrUdlluRuRRdLuururrddLruulldldlDrrUlddLulD
+Time taken: 0.2537839412689209 s
+Peak memory usage: 161036
+Number of state visited: 682
+
+Mini Cosmos 18 :  llldldlddrUrUrUdldlluRuRuRRRllldlddrUrUdlluRuRRdLulDrdLulDururururrdrddlULLulDrdLuururrDrdLLruulldlddrUlddlluR
+Time taken: 3.646523952484131 s
+Peak memory usage: 2347388
+Number of state visited: 6540
+
+Mini Cosmos 19 :  llUUUruLddddlluRdrUUUlluurDldRuRDDDldRRuluurruLLdlluurDldRurDDDrdLrdrruL
+Time taken: 1.0637073516845703 s
+Peak memory usage: 647188
+Number of state visited: 2800
+
+Mini Cosmos 20 :  llUUUruLddddlluRdrUUUlluurDldRuRDrruLLdDDldRRdrruLuLLdRllluRdrUUUlluurDldRuRDDDrdLuuurruLLdlluurDldRurDDDrddrruL
+Time taken: 11.943069219589233 s
+Peak memory usage: 9667700
+Number of state visited: 25252
+
+Mini Cosmos 21 :  rruUUruLdlluurDldRurDDDLdlluRRddrruLUUUruLdlluurDldRurDDDDLdRuullldRurD
+Time taken: 0.9642882347106934 s
+Peak memory usage: 777076
+Number of state visited: 2629
+
+Mini Cosmos 22 :  rruUUruLLulldRdRluurDrDDDLdlluRRddrruLUUUruLLulldRdRluurDrDDDDLuruuulldRurDDDlddRUlulldRurDrUUUruLL
+Time taken: 9.187873840332031 s
+Peak memory usage: 5726796
+Number of state visited: 17717
+
+Mini Cosmos 23 :  uuulldLurrrdddlllUUdlluRuRRRlllddrdrrrrruuululDDDDDullluUluRRRlldddrrrrruuululD
+Time taken: 2.129025936126709 s
+Peak memory usage: 1717228
+Number of state visited: 5379
+
+Mini Cosmos 24 :  uuulldLurrrdddlllUdrrruuulllllddRUluRRRdLurRRdddrruuuLulDDDDlllUUdlluRuRRRlllddrdrrrrruuululDDDuurrdddlLuuullllddrUluRRRRdddrruuuLulDrrdddllLrD
+Time taken: 69.1559829711914 s
+Peak memory usage: 49743460
+Number of state visited: 143032
+
+Mini Cosmos 25 :  uullDDuurrdddlLLdlluRuuRlddRRRdrUUUruulDllDllddrrrruUruLdddlllluurrDullddrRRdrUUU
+Time taken: 0.8808190822601318 s
+Peak memory usage: 755780
+Number of state visited: 2403
+
+Mini Cosmos 26 :  dllLdlluRRRRdrUUUruulDllDDuurrDDDrddlUUlLLdlluRuuRlddRRRdrruLUUruulDllDllddrrRdrruLuUruLdddLLLdlluRRRRdrUlllluurrDullddrRRdrruLUUddLL
+Time taken: 5.912601947784424 s
+Peak memory usage: 4702244
+Number of state visited: 14330
+
+Mini Cosmos 27 :  urUUlulldDuurrdrddllddlluuRRdrruuuruLLLulDDDuurrrddddlluRdrUUdllddlluuRuuurrrrdLullldddRRdrUUUruLLLulDD
+Time taken: 1.6417768001556396 s
+Peak memory usage: 1071932
+Number of state visited: 4478
+
+Mini Cosmos 28 :  rruLUUlulldDuurrdrdddlluRlddlluuRuuurrdrdDrdLLdllluurRRlluuurrdrruLLLulDDDuurrrddDlddllluuRuuurrrdddrdLuuuullldddRRlllddrrrUrUUddldllluuruuurrrrdLullldddrRdrUUUruLLLulDDurrrdddlddlUdlluurRR
+Time taken: 27.24263858795166 s
+Peak memory usage: 22274828
+Number of state visited: 67341
+
+Mini Cosmos 29 :  llUUruuullddlddRluurRdrUUddrddllUUdlluurRluurRdDurruulDrdL
+Time taken: 1.0907161235809326 s
+Peak memory usage: 615100
+Number of state visited: 2577
+
+Mini Cosmos 30 :  llUUddrruuLuuullddRDrUUdlluurRdddrddllUUruuullddlddRluuruurrdrruLLLulDrrdddrddllUlluurRllddrrUrUUruLLulldRRRdddldlluurRdrUUrruulDrdLuLLulldRRRDDllUdrrurruulDrdLullulldRRRRurD
+Time taken: 34.80193877220154 s
+Peak memory usage: 25260956
+Number of state visited: 78412
+
+Mini Cosmos 31 :  luluurrdrDrdLuululldddddrrrUULLuluurrdrDrdLddllluUUdddrrruuLLulDrrruulullD
+Time taken: 0.20351433753967285 s
+Peak memory usage: 160268
+Number of state visited: 512
+
+Mini Cosmos 32 :  luurrDrdLuullddddrrUULrddlluUUluurDrrDrdLddlluuUluRddddrruuLrddlluUUluurDDDrruuLrddlluluurD
+Time taken: 0.24548745155334473 s
+Peak memory usage: 149796
+Number of state visited: 655
+
+Mini Cosmos 33 :  luluurDlddrrruruulDLLulDDlddrUrUdrrUruulDlLddrrUdlluurRllddlluRdrrruullulDrrrddllUdlluRuRlddrU
+Time taken: 0.7293133735656738 s
+Peak memory usage: 551516
+Number of state visited: 1930
+
+Mini Cosmos 34 :  ruruulDrddllluluurDRRurDDrddlUlUdllUluurDrRddllUdrruulLrrddrruLdllluurrurDDullldlluRdrdrrUruLrdrddlUU
+Time taken: 1.1572527885437012 s
+Peak memory usage: 808220
+Number of state visited: 2712
+
+Mini Cosmos 35 :  dlLuluurDllldddrrUrrruuLLLrrrddlllUdrrruullDldRuuulDrddldlluuuRRurDDullldddrruUddlluuurR
+Time taken: 0.3019556999206543 s
+Peak memory usage: 193780
+Number of state visited: 771
+
+Mini Cosmos 36 :  dlLdlUUUlluurrDrDLddrrruuLLDldRuuulDuullddRRDrddlUUUlluurrDrDDuulullddrR
+Time taken: 0.9591720104217529 s
+Peak memory usage: 566172
+Number of state visited: 2110
+
+Mini Cosmos 37 :  dlLuUllddRluurrdDrruuLrddlllluuruRDDurrddlLuuuurDldddrruuLrddlluUddrddlUUrruullllddRRlluurrDuruulD
+Time taken: 1.8437259197235107 s
+Peak memory usage: 1316060
+Number of state visited: 4490
+
+Mini Cosmos 38 :  drrrUruLLDrdLLdlluRuRRdLrrUluulDDlDRllddrUruurrruL
+Time taken: 0.7388253211975098 s
+Peak memory usage: 528884
+Number of state visited: 1788
+
+Mini Cosmos 39 :  ddrruUUdddrruuLrddlllluuuururrdLdDrrddlllluuuuRurDllddddrrrruullLrrrddlllluUrrDurrddlLLdlUrruullUluRRurrdLDDlluuRurD
+Time taken: 8.035213232040405 s
+Peak memory usage: 6156748
+Number of state visited: 19175
+
+Mini Cosmos 40 :  drrUdlluRuRDlldddrrurruuLLuurDllDldddrruUUdLrdrruuLLruulDlDurrdrddlluUllDRurrrddlldllU
+Time taken: 2.7189857959747314 s
+Peak memory usage: 2264764
+Number of state visited: 6110
+

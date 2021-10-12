@@ -1,0 +1,20 @@
+Mini Cosmos 1 :  uuluuRlddrrurruullDDullddrRlddrruUluR
+Time taken: 0.07808113098144531 s
+Peak memory usage: 49866
+Number of state visited: 124
+
+Mini Cosmos 2 :  rruullluuRlddrrurruullDDullddrRurrrddlldllUdrruUluullddRRuRD
+Time taken: 0.31641650199890137 s
+Peak memory usage: 167889
+Number of state visited: 502
+
+Mini Cosmos 3 :  rruullluuRlddrrrddllUdrruuuruullDllddRRlddrruUllluurrurrddrddLruuluulldDRdL
+Time taken: 1.2695958614349365 s
+Peak memory usage: 575682
+Number of state visited: 1362
+
+Mini Cosmos 4 :  uuuurRlldddrrruuruulDDDuullldddrrdrruLLLrruuulllddDlddrUUUdrrruuulllldR
+Time taken: 0.2713303565979004 s
+Peak memory usage: 100940
+Number of state visited: 405
+
