@@ -90,27 +90,27 @@ class Sokoban:
 
             # patterns indicating deadlock state of a crate, more information in the report, margin too short to write the explanation UmU
             self.stuck_pattern = np.array((
-                                           (1,0,0,1,0,0,0,0),  #crate stuck in a corner of 2 walls
+                                           (1,0,0,1,0,0,0,0),  #crate stuck in a corner of 2 walls, 2wall.png
                                            (1,0,1,0,0,0,0,0),
                                            (0,1,1,0,0,0,0,0),
                                            (0,1,0,1,0,0,0,0),
-                                           (2,0,0,2,0,0,1,0),  #crate stuck in a corner of 2 crates and 1 wall
+                                           (2,0,0,2,0,0,1,0),  #crate stuck in a corner of 2 crates and 1 wall, 2b1w.png
                                            (2,0,2,0,1,0,0,0),
                                            (0,2,2,0,0,0,0,1),
                                            (0,2,0,2,0,1,0,0),
-                                           (2,0,0,2,0,0,2,0),  #crate stuck in a corner with 3 crates
+                                           (2,0,0,2,0,0,2,0),  #crate stuck in a corner with 3 crates, 3box.png
                                            (2,0,2,0,2,0,0,0),
                                            (0,2,2,0,0,0,0,2),
                                            (0,2,0,2,0,2,0,0),                               
-                                           (0,1,0,2,0,1,0,0),  #crate stuck in a corner with 2 walls and 1 crate
-                                           (0,2,0,1,0,1,0,0),
+                                           (0,1,0,2,0,1,0,0),  #crate stuck in a corner with 2 walls and 1 crate, 2w1box-1.png
+                                           (0,2,0,1,0,1,0,0),  #crate stuck in a corner with 2 walls and 1 crate, 2w1box-2.png
                                            (0,1,2,0,0,0,0,1),
                                            (0,2,1,0,0,0,0,1),
                                            (1,0,2,0,1,0,0,0),  
                                            (2,0,1,0,1,0,0,0),
                                            (1,0,0,2,0,0,1,0),
                                            (2,0,0,1,0,0,1,0),
-                                           (1,0,2,0,0,0,0,1),
+                                           (1,0,2,0,0,0,0,1),  #a weird variation of the 2 walls and 1 crate, 2w2box.png
                                            (0,2,1,0,0,1,0,0),
                                            (0,1,0,2,0,0,1,0),
                                            (2,0,0,1,1,0,0,0)

@@ -1,3 +1,31 @@
+#                         _ooOoo_
+#                        o8888888o
+#                        88" . "88
+#                        (| -_- |)
+#                        O\  =  /O
+#                     ____/`---'\____
+#                   .'  \\|     |//  `.
+#                  /  \\|||  :  |||//  \
+#                 /  _||||| -:- |||||_  \
+#                 |   | \\\  -  /'| |   |
+#                 | \_|  `\`---'//  |_/ |
+#                 \  .-\__ `-. -'__/-.  /
+#               ___`. .'  /--.--\  `. .'___
+#            ."" '<  `.___\_<|>_/___.' _> \"".
+#           | | :  `- \`. ;`. _/; .'/ /  .' ; |
+#           \  \ `-.   \_\_`. _.'_/_/  -' _.' /
+# ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
+#                         `=--=-'                    
+#
+#
+#      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#
+#
+#                 Buddha Bless: "No Bugs"
+#
+#
+#=============================================================
+#! usr/bin/python
 from copy import deepcopy
 import pygame
 # from Sokoban import Sokoban
@@ -746,13 +774,6 @@ class game:
                         elif check_placement(pos,(((len(self.scr.board[0])-1)*SQUARE_SIZE), (len(self.scr.board)+0.5)*SQUARE_SIZE)):
                             self.scr.state = State.MANUAL_ITER
                         elif check_placement(pos,((len(self.scr.board[0])//2-1)*SQUARE_SIZE, (len(self.scr.board)+0.5)*SQUARE_SIZE)):
-                            # if self.chosen_set =='micro':
-                            #     self.scr.state = State.MICRO_CHOOSING
-                            #     self.chosen = False
-                            # elif self.chosen_set =='mini':
-                            #     self.scr.state = State.MINI_CHOOSING
-                            #     self.chosen = False
-
                             self.scr.state = State.METHOD_CHOOSING
                             self.chosen = False 
                             self.scr.resize_window_org(self.WIN)
