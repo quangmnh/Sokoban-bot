@@ -230,6 +230,7 @@ class Sokoban:
             move = temp[1]
             main = game_state[0:2]
             crates = game_state[2:]
+            print(game_state)
             for direction in self.directions: # 4 directions
                 #new_main is the new cords of the block main will move into
                 new_main = main + direction
