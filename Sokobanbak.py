@@ -244,6 +244,8 @@ class Sokoban:
                         new_state = np.concatenate((new_main, new_crates.ravel())) #combine the new main's cords and the new crate's cords for a new state
                         new_move = move + [self.push_dir[direction]] #append the new move the list of current moves
                         if (new_crates[:,None] == self.dest).all(-1).any(-1).all(): #check if the state is the goal state then end the search
+                            print('New crate: {}'.format(new_crates[:,None]))
+                            print('Dest: {}'.format(self.dest))
                             self.moves.append(new_move)
                             self.time = time.time() - self.start
                             self.max_queue_length = len(visited)
