@@ -5,7 +5,7 @@ Introduction to AI assignment 1  HCM University of Technology, term 211
 This is basically a solver for Sokoban game using Breadth-first Search and A* algorithm to search state space for a solution.
 Example level sets are taken from ksokoban.online, "Mini Cosmos" and "Micro Cosmos" (40 levels each)
 
-# Algorithm :
+# Algorithm
 (see more in the Sokoban.py code, where I explain the algorithm in details)
 - __Breadth-first Search__: We keep generating new state that is a combination of main character's and crates' co-ordinations push it to the queue. Pop it every loop and proceed to generate more state till solution.
 
