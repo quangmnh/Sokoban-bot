@@ -433,13 +433,13 @@ class game:
         clock = pygame.time.Clock()
         isNum = False
         chosenNum = 0
-
         pygame.mixer.music.load('assets/sus.mp3')
         pygame.mixer.music.play(-1)
         while(run):
             clock.tick(self.FPS)
             events = pygame.event.get()
             next_move = pygame.USEREVENT + 10
+
             for event in events:
                 if event.type  == pygame.QUIT:
                     run = False

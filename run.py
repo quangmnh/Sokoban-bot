@@ -1,4 +1,4 @@
-from Sokobanbak import Sokoban
+from Sokoban import Sokoban
 
 sokoban = Sokoban()
-sokoban.run_one('bfs','mini',2)
+sokoban.run_all()
