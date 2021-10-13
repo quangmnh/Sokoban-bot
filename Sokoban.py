@@ -110,10 +110,14 @@ class Sokoban:
                                            (2,0,1,0,1,0,0,0),
                                            (1,0,0,2,0,0,1,0),
                                            (2,0,0,1,0,0,1,0),
-                                           (1,0,2,0,0,0,0,1),  #a weird variation of the 2 walls and 1 crate, 2w2box.png
+                                           (1,0,2,0,0,0,0,1),  #a weird variation of the 2 walls and 1 crate, 2w1box-3.png
                                            (0,2,1,0,0,1,0,0),
                                            (0,1,0,2,0,0,1,0),
-                                           (2,0,0,1,1,0,0,0)
+                                           (2,0,0,1,1,0,0,0),
+                                           (1,0,0,2,0,1,0,0),  #a weird variation of the 2 walls and 1 crate, 2w1box-4.png
+                                           (2,0,1,0,0,0,1,0),
+                                           (0,1,2,0,1,0,0,0),
+                                           (0,2,0,1,0,0,0,1)
                                         ))
      
             self.pattern_keyid = deepcopy(self.stuck_pattern) #key position of blockage, explanation in the report
