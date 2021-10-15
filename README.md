@@ -19,7 +19,7 @@ Example level sets are taken from ksokoban.online, "Mini Cosmos" and "Micro Cosm
 
 Example:
 ```python
-  from Sokkoban import Sokoban
+  from Sokoban import Sokoban
   
   sokoban = Sokoban()
 
